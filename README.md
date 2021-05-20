@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Enricobt, Web Manager @ lorenzovinci.it
-- 👀 I’m interested in I’m interested in Prestashop & Wordpress
-- 🌱 I’m currently learning how to take the best from AMP Projetc
+- 👀 I’m interested in Prestashop & Wordpress
+- 🌱 I’m currently learning how to make the most of the tools of the AMP project
 - 💞️ I’m looking to collaborate on issues and solutions that I found
 - 📫 How to reach me enricobt@gmail.com
 
